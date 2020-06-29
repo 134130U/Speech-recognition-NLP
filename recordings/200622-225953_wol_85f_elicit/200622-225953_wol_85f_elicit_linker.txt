@@ -1,0 +1,16 @@
+/storage/emulated/0/Download/FrogStory(1)/FrogStory/image11.jpg ; /storage/emulated/0/aikuma/recordings/200622-225953_wol_85f_elicit/200622-225953_wol_85f_elicit_10.wav
+/storage/emulated/0/Download/FrogStory(1)/FrogStory/image12.jpg ; /storage/emulated/0/aikuma/recordings/200622-225953_wol_85f_elicit/200622-225953_wol_85f_elicit_11.wav
+/storage/emulated/0/Download/FrogStory(1)/FrogStory/image13.jpg ; /storage/emulated/0/aikuma/recordings/200622-225953_wol_85f_elicit/200622-225953_wol_85f_elicit_12.wav
+/storage/emulated/0/Download/FrogStory(1)/FrogStory/image14.jpg ; /storage/emulated/0/aikuma/recordings/200622-225953_wol_85f_elicit/200622-225953_wol_85f_elicit_13.wav
+/storage/emulated/0/Download/FrogStory(1)/FrogStory/image15.jpg ; /storage/emulated/0/aikuma/recordings/200622-225953_wol_85f_elicit/200622-225953_wol_85f_elicit_14.wav
+/storage/emulated/0/Download/FrogStory(1)/FrogStory/image16.jpg ; /storage/emulated/0/aikuma/recordings/200622-225953_wol_85f_elicit/200622-225953_wol_85f_elicit_15.wav
+/storage/emulated/0/Download/FrogStory(1)/FrogStory/image17.jpg ; /storage/emulated/0/aikuma/recordings/200622-225953_wol_85f_elicit/200622-225953_wol_85f_elicit_16.wav
+/storage/emulated/0/Download/FrogStory(1)/FrogStory/image18.jpg ; /storage/emulated/0/aikuma/recordings/200622-225953_wol_85f_elicit/200622-225953_wol_85f_elicit_17.wav
+/storage/emulated/0/Download/FrogStory(1)/FrogStory/image19.jpg ; /storage/emulated/0/aikuma/recordings/200622-225953_wol_85f_elicit/200622-225953_wol_85f_elicit_18.wav
+/storage/emulated/0/Download/FrogStory(1)/FrogStory/image20.jpg ; /storage/emulated/0/aikuma/recordings/200622-225953_wol_85f_elicit/200622-225953_wol_85f_elicit_19.wav
+/storage/emulated/0/Download/FrogStory(1)/FrogStory/image21.jpg ; /storage/emulated/0/aikuma/recordings/200622-225953_wol_85f_elicit/200622-225953_wol_85f_elicit_20.wav
+/storage/emulated/0/Download/FrogStory(1)/FrogStory/image22.jpg ; /storage/emulated/0/aikuma/recordings/200622-225953_wol_85f_elicit/200622-225953_wol_85f_elicit_21.wav
+/storage/emulated/0/Download/FrogStory(1)/FrogStory/image23.jpg ; /storage/emulated/0/aikuma/recordings/200622-225953_wol_85f_elicit/200622-225953_wol_85f_elicit_22.wav
+/storage/emulated/0/Download/FrogStory(1)/FrogStory/image24.jpg ; /storage/emulated/0/aikuma/recordings/200622-225953_wol_85f_elicit/200622-225953_wol_85f_elicit_23.wav
+/storage/emulated/0/Download/FrogStory(1)/FrogStory/image25.jpg ; /storage/emulated/0/aikuma/recordings/200622-225953_wol_85f_elicit/200622-225953_wol_85f_elicit_24.wav
+/storage/emulated/0/Download/FrogStory(1)/FrogStory/image26.jpg ; /storage/emulated/0/aikuma/recordings/200622-225953_wol_85f_elicit/200622-225953_wol_85f_elicit_25.wav
